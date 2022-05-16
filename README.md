@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Bhavneet Singh
-- 👀 I’m interested in Software Dev., Machine Learning and Web Development.
-- 🌱 I’m currently learning intermediate level Python and Django
+- 👀 I’m interested in Software Development and Machine Learning.
+- 🌱 I’m currently learning intermediate level Python.
