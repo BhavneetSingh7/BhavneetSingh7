@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bhavneet Singh
-- 👀 I’m interested in Software Development and Machine Learning.
-- 🌱 I’m currently learning intermediate level Python.
+- 👀 i'm interested in solving problems.
 
 ![Bhavneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhavneetSingh7&theme=dark&show_icons=true)
 
